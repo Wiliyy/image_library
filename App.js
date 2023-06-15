@@ -13,7 +13,6 @@ import {
 } from "react-native";
 import { FontAwesome } from "@expo/vector-icons";
 
-const image = { uri: "https://reactjs.org/logo-og.png" };
 
 export default function App() {
   const [active_index, setActive_index] = useState(0);
